@@ -4,5 +4,9 @@ An occult project featuring my personal research and development of the esoteric
 ### TECHNIQUES
 - ENCHANTMENT
   - DATA SIGILS
-  - 
 - DIVINATION
+  - DATA ANALYSIS
+  - SYMBOLIC CORRESPONDENCE OF DATA
+- THOUGHTFORMS
+  - DIGITAL ENTITIES
+  - AI SERVITORS
